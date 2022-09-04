@@ -1,0 +1,657 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(99, 190, 255, 0.5),
+    rgba(99, 190, 255, 0.25)
+  );
+  backdrop-filter: blur(42px);
+  width: 1728px;
+  height: 5585px;
+}
+.undraw-code-thinking-re-gka2-icon {
+  position: relative;
+  width: 854px;
+  height: 366px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.a-guide-to-your-first-hackatho {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  height: 317px;
+}
+.frame-div2 {
+  width: 1435px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 19px;
+}
+.a-hackathon-is-a-social-coding,
+.frame-div1 {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.a-hackathon-is-a-social-coding {
+  position: relative;
+  font-size: 24px;
+  height: 128px;
+  flex-shrink: 0;
+}
+.frame-div1 {
+  flex-direction: column;
+  gap: 49px;
+}
+.frame-div,
+.heroline-div {
+  position: absolute;
+  box-sizing: border-box;
+}
+.frame-div {
+  top: -375px;
+  left: -147px;
+  width: 1728px;
+  height: 1116px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 153px;
+  align-items: center;
+  justify-content: center;
+}
+.heroline-div {
+  top: -89px;
+  left: 5.5px;
+  border-top: 1px solid #000;
+  width: 1423px;
+  height: 1px;
+  display: none;
+}
+.hero-div {
+  position: absolute;
+  top: 375px;
+  left: 147px;
+  width: 1435px;
+  height: 543px;
+  font-size: 96px;
+}
+.beforeline-div {
+  position: relative;
+  border-top: 1px solid #000;
+  box-sizing: border-box;
+  width: 1144px;
+  height: 1px;
+  flex-shrink: 0;
+}
+.before {
+  position: relative;
+  font-size: 64px;
+  display: inline-block;
+  text-align: center;
+}
+.undraw-engineering-team-a7n2-icon {
+  position: absolute;
+  top: 0;
+  left: 725.5px;
+  width: 708px;
+  height: 361px;
+  overflow: hidden;
+}
+.finding-hackathons-p {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.major-league-hacking {
+  text-decoration: underline;
+  color: #3f3d56;
+}
+.span {
+  color: #000;
+}
+.online-resources-like-major-le {
+  margin: 0;
+}
+.finding-hackathons-check-the {
+  position: absolute;
+  top: 68px;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 688px;
+}
+.group-div {
+  position: relative;
+  width: 1433.5px;
+  height: 361px;
+  flex-shrink: 0;
+}
+.before1-div {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.undraw-collaborating-re-l43g-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 708px;
+  height: 526px;
+  overflow: hidden;
+}
+.it-is-better-to-form-a-team-to {
+  position: absolute;
+  top: 81px;
+  left: 728px;
+  display: flex;
+  align-items: center;
+  width: 708px;
+}
+.group-div1 {
+  position: relative;
+  width: 1436px;
+  height: 526px;
+  flex-shrink: 0;
+}
+.before-div,
+.before-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.before-div {
+  align-self: stretch;
+  padding: 0 151px;
+  box-sizing: border-box;
+}
+.before-section {
+  position: absolute;
+  top: 1117px;
+  left: 0;
+  width: 1728px;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: Roboto;
+}
+.after-b {
+  position: absolute;
+  top: 0;
+  left: 642.5px;
+  font-size: 64px;
+  display: inline-block;
+  text-align: center;
+}
+.undraw-conference-call-b0w6-icon {
+  position: absolute;
+  top: 0;
+  left: 729px;
+  width: 707px;
+  height: 524px;
+  overflow: hidden;
+}
+.congratulations-on-your-first {
+  position: absolute;
+  top: 103px;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 706px;
+}
+.group-div2 {
+  position: absolute;
+  top: 101px;
+  left: 0;
+  width: 1436px;
+  height: 524px;
+}
+.undraw-online-calendar-re-wk3t-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 708px;
+  height: 496px;
+  overflow: hidden;
+}
+.keep-an-eye-on-the-upcoming-ha {
+  position: absolute;
+  top: 286px;
+  left: 720px;
+  display: flex;
+  align-items: center;
+  width: 708px;
+}
+.afterline-div,
+.group-div3 {
+  position: absolute;
+}
+.group-div3 {
+  top: 513px;
+  left: 10px;
+  width: 1428px;
+  height: 496px;
+}
+.afterline-div {
+  top: -49.5px;
+  left: 146.5px;
+  border-top: 1px solid #000;
+  box-sizing: border-box;
+  width: 1144px;
+  height: 1px;
+}
+.after-div {
+  position: absolute;
+  top: 3400px;
+  left: 146px;
+  width: 1436px;
+  height: 1009px;
+  text-align: left;
+}
+.during-b {
+  position: absolute;
+  top: 0;
+  left: 614.5px;
+  font-size: 64px;
+  display: inline-block;
+  text-align: center;
+}
+.undraw-programming-re-kg9v-icon {
+  position: absolute;
+  top: 0;
+  left: 729px;
+  width: 707px;
+  height: 514px;
+  overflow: hidden;
+}
+.peacefully-read-through-container {
+  line-break: anywhere;
+  width: 100%;
+}
+.peacefully-read-through-all-th {
+  position: absolute;
+  top: 47px;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 706px;
+}
+.group-div4 {
+  position: absolute;
+  top: 101px;
+  left: 0;
+  width: 1436px;
+  height: 514px;
+}
+.undraw-teamwork-hpdk-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 708px;
+  height: 364px;
+  overflow: hidden;
+}
+.loom-span {
+  text-decoration: underline;
+  color: #0086e5;
+}
+.hackathons-might-also-have-pit {
+  position: absolute;
+  top: 0;
+  left: 728px;
+  display: flex;
+  align-items: center;
+  width: 708px;
+}
+.group-div5 {
+  position: absolute;
+  top: 645px;
+  left: 2px;
+  width: 1436px;
+  height: 364px;
+}
+.canva-div,
+.loom-div {
+  position: absolute;
+  overflow: hidden;
+}
+.loom-div {
+  top: 702px;
+  left: 1018px;
+  width: 65px;
+  height: 26px;
+}
+.canva-div {
+  top: 733px;
+  left: 1046px;
+  width: 76px;
+  height: 27px;
+}
+.during-div {
+  position: absolute;
+  top: 2283px;
+  left: 146px;
+  width: 1436px;
+  height: 1009px;
+  text-align: left;
+}
+.rectangle-div1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #0086e5;
+  width: 1728px;
+  height: 64px;
+}
+.made-with-by-jeromtom-powered {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.emoji-red-heart {
+  position: absolute;
+  height: 85.71%;
+  width: 5.18%;
+  top: 7.14%;
+  right: 71.65%;
+  bottom: 7.14%;
+  left: 23.17%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.group-div6 {
+  position: absolute;
+  top: 18px;
+  left: 612px;
+  width: 505px;
+  height: 28px;
+}
+.creditbar-footer {
+  position: absolute;
+  top: 5521px;
+  left: 0;
+  width: 1728px;
+  height: 64px;
+  text-align: left;
+  font-size: 24px;
+  color: #fff;
+  font-family: Roboto;
+}
+.sign-up-to-our-newsletter-to-s {
+  position: absolute;
+  top: -10px;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1436px;
+}
+.rectangle-input {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background: linear-gradient(
+    152.97deg,
+    rgba(255, 255, 255, 0.5),
+    rgba(0, 134, 229, 0.5)
+  );
+  backdrop-filter: blur(42px);
+  width: 560px;
+  height: 64px;
+}
+.name-label {
+  cursor: pointer;
+  position: absolute;
+  top: 16px;
+  left: 22.4px;
+  font-size: 24px;
+  font-weight: 700;
+  font-family: Roboto;
+  color: #3f3d56;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 516.13px;
+  height: 32px;
+}
+.rectangle-input1 {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 76px;
+  left: 0;
+  border-radius: 20px;
+  background: linear-gradient(
+    152.97deg,
+    rgba(255, 255, 255, 0.5),
+    rgba(0, 134, 229, 0.5)
+  );
+  backdrop-filter: blur(42px);
+  width: 560px;
+  height: 64px;
+}
+.email-id-label {
+  cursor: pointer;
+  position: absolute;
+  top: 92px;
+  left: 22.4px;
+  font-size: 24px;
+  font-weight: 700;
+  font-family: Roboto;
+  color: #3f3d56;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 516.13px;
+  height: 32px;
+}
+.frame-div5 {
+  align-self: stretch;
+  position: relative;
+  height: 140px;
+  flex-shrink: 0;
+}
+.submit {
+  position: relative;
+  font-size: 24px;
+  display: inline-block;
+  font-family: Roboto;
+  color: #fff;
+  text-align: center;
+}
+.submit-button {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 23px;
+  background-color: #0086e5;
+  align-self: stretch;
+  border-radius: 20px;
+  backdrop-filter: blur(42px);
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.form,
+.undraw-newsletter-re-wrob-icon {
+  position: relative;
+  width: 602px;
+  flex-shrink: 0;
+}
+.form {
+  align-self: stretch;
+  border-radius: 20px;
+  border: 1px solid #0086e5;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  padding: 0 20px;
+  align-items: center;
+  justify-content: center;
+  gap: 64px;
+}
+.undraw-newsletter-re-wrob-icon {
+  height: 389px;
+  overflow: hidden;
+}
+.frame-div4 {
+  position: absolute;
+  top: 250px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 126px;
+}
+.frame-div3 {
+  align-self: stretch;
+  position: relative;
+  height: 639px;
+  flex-shrink: 0;
+}
+.newsletter-div {
+  position: absolute;
+  top: 4468px;
+  left: 146px;
+  width: 1444px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 207px;
+  font-size: 64px;
+}
+.jeromtom-div,
+.locofy-div {
+  position: absolute;
+  top: 5539px;
+  left: 787px;
+  width: 111px;
+  height: 31px;
+  overflow: hidden;
+}
+.locofy-div {
+  top: 5535px;
+  left: 1038px;
+  width: 75px;
+  height: 35px;
+}
+.howhack-div1 {
+  position: absolute;
+  height: 89.06%;
+  width: 75.36%;
+  top: 4.69%;
+  right: 13.57%;
+  bottom: 6.25%;
+  left: 11.07%;
+  font-size: 48px;
+  font-family: "Imprint MT Shadow";
+  color: #000;
+  text-align: left;
+  display: inline-block;
+}
+.home-div,
+.logo-a {
+  position: absolute;
+  cursor: pointer;
+}
+.logo-a {
+  text-decoration: none;
+  top: -0.5px;
+  left: 92.5px;
+  width: 280px;
+  height: 64px;
+  overflow: hidden;
+}
+.home-div {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  font-size: 24px;
+  font-family: Roboto;
+  color: #000;
+  text-align: left;
+  display: inline-block;
+}
+.after,
+.before-a {
+  text-decoration: none;
+  position: relative;
+  height: 28px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.home-a {
+  width: 72.94px;
+}
+.home-a,
+.newsletter-a {
+  text-decoration: none;
+  position: relative;
+  height: 28px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.before-a {
+  width: 79.67px;
+}
+.after {
+  width: 57.23px;
+}
+.newsletter-a {
+  width: 115.97px;
+}
+.navlinks-div {
+  position: absolute;
+  width: 32.52%;
+  top: calc(50% - 14.5px);
+  right: 6.45%;
+  left: 61.02%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+}
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0 0 5px 5px;
+  background-color: #63beff;
+  width: 1728px;
+  height: 64px;
+}
+.howhack-div {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 5585px;
+  overflow-x: auto;
+  text-align: center;
+  font-size: 24px;
+  color: #000;
+  font-family: Roboto;
+}
